@@ -18,6 +18,10 @@ public class stepDefinition {
     public void user_is_on_netbanking_landing_page() throws Throwable {
         //throw new PendingException();
 System.out.println("netbanking landing page");
+System.out.println("netbanking landing page test git1");
+System.out.println("netbanking landing page test git2");
+System.out.println("netbanking landing page test git3");
+System.out.println("netbanking landing page test git4");
     }
     
     @When("^User login into application with \"([^\"]*)\" and \"([^\"]*)\"$")
