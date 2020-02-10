@@ -23,7 +23,7 @@ System.out.println("netbanking landing page test git2");
 System.out.println("netbanking landing page test git3");
 System.out.println("netbanking landing page test git4");
 System.out.println("Gixt X changes");
-
+System.out.println("git develop branch");
     }
     
     @When("^User login into application with \"([^\"]*)\" and \"([^\"]*)\"$")
